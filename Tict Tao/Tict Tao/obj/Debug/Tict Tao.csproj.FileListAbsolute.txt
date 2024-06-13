@@ -1,0 +1,11 @@
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\bin\Debug\Tict Tao.exe.config
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\bin\Debug\Tict Tao.exe
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\bin\Debug\Tict Tao.pdb
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\obj\Debug\Tict Tao.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\obj\Debug\Tict_Tao.Form1.resources
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\obj\Debug\Tict_Tao.Properties.Resources.resources
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\obj\Debug\Tict Tao.csproj.GenerateResource.cache
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\obj\Debug\Tict Tao.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\obj\Debug\Tict Tao.exe
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\obj\Debug\Tict Tao.pdb
+C:\Users\Shadow\Desktop\C#\Tict Tao\Tict Tao\obj\Debug\Tict_Tao.startGame.resources
